@@ -1,0 +1,406 @@
++++ASSIGNMENT0 MARK DETAIL+++
++++This assignment is marked by:+++
+TA (name, email): Amol Dosanjh, amol.dosanjh@mail.utoronto.ca
+Contact the TA directly if you have any questions on the marking
+Please refer to the course syllabus for remarking window
+Your mark out of 10 is: 9
+
+
+
+PART 1) +++SVN CHECKOUT ON YOUR ASSIGNMENT0+++
+A    Assignment0/src
+A    Assignment0/src/a0
+A    Assignment0/src/driver
+A    Assignment0/test
+A    Assignment0/src/a0/Cfiltering.java
+A    Assignment0/src/a0/Rearranging.java
+A    Assignment0/src/driver/CfilteringDriver.java
+A    Assignment0/test/input1.txt
+A    Assignment0/test/input2.txt
+A    Assignment0/test/input3.txt
+A    Assignment0/test/input4.txt
+A    Assignment0/input1.txt
+A    Assignment0/input2.txt
+Checked out revision 40.
+
+
+
+PART 2) +++SVN COMMIT LOGS ARE+++
+------------------------------------------------------------------------
+r39 | zhan5263@UTORONTO.CA | 2018-09-26 14:12:58 -0400 (Wed, 26 Sep 2018) | 1 line
+
+add third test file
+------------------------------------------------------------------------
+r38 | zhan5263@UTORONTO.CA | 2018-09-26 14:12:12 -0400 (Wed, 26 Sep 2018) | 1 line
+
+add thrid test file
+------------------------------------------------------------------------
+r37 | zhan5263@UTORONTO.CA | 2018-09-26 14:11:45 -0400 (Wed, 26 Sep 2018) | 1 line
+
+added second test file
+------------------------------------------------------------------------
+r36 | zhan5263@UTORONTO.CA | 2018-09-26 14:10:25 -0400 (Wed, 26 Sep 2018) | 1 line
+
+added first test file
+------------------------------------------------------------------------
+r35 | zhan5263@UTORONTO.CA | 2018-09-26 00:11:45 -0400 (Wed, 26 Sep 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r34 | zhan5263@UTORONTO.CA | 2018-09-26 00:09:44 -0400 (Wed, 26 Sep 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r33 | zhan5263@UTORONTO.CA | 2018-09-25 23:54:40 -0400 (Tue, 25 Sep 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r32 | zhan5263@UTORONTO.CA | 2018-09-25 23:41:20 -0400 (Tue, 25 Sep 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r31 | zhan5263@UTORONTO.CA | 2018-09-25 23:32:01 -0400 (Tue, 25 Sep 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r30 | zhan5263@UTORONTO.CA | 2018-09-25 23:21:45 -0400 (Tue, 25 Sep 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r29 | zhan5263@UTORONTO.CA | 2018-09-25 23:17:12 -0400 (Tue, 25 Sep 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r28 | zhan5263@UTORONTO.CA | 2018-09-25 23:16:59 -0400 (Tue, 25 Sep 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r27 | zhan5263@UTORONTO.CA | 2018-09-25 23:14:02 -0400 (Tue, 25 Sep 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r26 | zhan5263@UTORONTO.CA | 2018-09-25 22:42:29 -0400 (Tue, 25 Sep 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r25 | zhan5263@UTORONTO.CA | 2018-09-25 22:41:40 -0400 (Tue, 25 Sep 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r24 | zhan5263@UTORONTO.CA | 2018-09-25 18:14:13 -0400 (Tue, 25 Sep 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r23 | zhan5263@UTORONTO.CA | 2018-09-25 18:14:01 -0400 (Tue, 25 Sep 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r22 | zhan5263@UTORONTO.CA | 2018-09-25 17:47:22 -0400 (Tue, 25 Sep 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r21 | zhan5263@UTORONTO.CA | 2018-09-25 17:45:24 -0400 (Tue, 25 Sep 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r20 | zhan5263@UTORONTO.CA | 2018-09-25 17:28:06 -0400 (Tue, 25 Sep 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r19 | zhan5263@UTORONTO.CA | 2018-09-25 16:39:34 -0400 (Tue, 25 Sep 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r18 | zhan5263@UTORONTO.CA | 2018-09-25 16:21:06 -0400 (Tue, 25 Sep 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r17 | zhan5263@UTORONTO.CA | 2018-09-25 15:52:52 -0400 (Tue, 25 Sep 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r16 | zhan5263@UTORONTO.CA | 2018-09-25 15:37:01 -0400 (Tue, 25 Sep 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r15 | zhan5263@UTORONTO.CA | 2018-09-25 15:11:15 -0400 (Tue, 25 Sep 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r14 | zhan5263@UTORONTO.CA | 2018-09-25 14:25:59 -0400 (Tue, 25 Sep 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r13 | zhan5263@UTORONTO.CA | 2018-09-24 20:58:06 -0400 (Mon, 24 Sep 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r12 | zhan5263@UTORONTO.CA | 2018-09-23 23:09:00 -0400 (Sun, 23 Sep 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r11 | zhan5263@UTORONTO.CA | 2018-09-23 22:37:12 -0400 (Sun, 23 Sep 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r10 | zhan5263@UTORONTO.CA | 2018-09-23 19:53:43 -0400 (Sun, 23 Sep 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r9 | zhan5263@UTORONTO.CA | 2018-09-23 19:25:21 -0400 (Sun, 23 Sep 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r8 | zhan5263@UTORONTO.CA | 2018-09-23 19:12:35 -0400 (Sun, 23 Sep 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r6 | attarwal@UTORONTO.CA | 2018-09-19 12:15:45 -0400 (Wed, 19 Sep 2018) | 1 line
+
+deleting src/test by instructor
+------------------------------------------------------------------------
+r4 | attarwal@UTORONTO.CA | 2018-09-18 04:35:54 -0400 (Tue, 18 Sep 2018) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r3 | attarwal@UTORONTO.CA | 2018-09-18 04:35:53 -0400 (Tue, 18 Sep 2018) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r2 | attarwal@UTORONTO.CA | 2018-09-18 04:35:52 -0400 (Tue, 18 Sep 2018) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r1 | Markus | 2018-09-15 12:36:36 -0400 (Sat, 15 Sep 2018) | 1 line
+
+
+------------------------------------------------------------------------
+Marks Deductions here: -1
+Few decent commit messages
+
+
+
+PART 3) +++FOLLOWING LINES ARE GREATER THAN 80 CHARACTERS+++
+  public void populateUserMovieMatrix(int rowNumber, int columnNumber, int ratingValue) {
+      distance = distance + Math.pow(((userMovieMatrix[user1][i] - userMovieMatrix[user2][i])), 2);
+    System.out.println("The most similar pairs of users from above userUserMatrix are:");
+    System.out.println("The most dissimilar pairs of users from above " + "userUserMatrix are:");
+          cfObject.populateUserMovieMatrix(rowNumber, columnNumber, Integer.parseInt(singleRating));
+Marks Deductions here: 0
+WARNING: Ensure your lines are smaller than 80 characters in the future
+
+
+
+PART 4) +++TEST FOLDER WITH TEST FILES IN IT?+++
+------------------------------------------------------------------------
+r39 | zhan5263@UTORONTO.CA | 2018-09-26 14:12:58 -0400 (Wed, 26 Sep 2018) | 1 line
+
+add third test file
+------------------------------------------------------------------------
+r38 | zhan5263@UTORONTO.CA | 2018-09-26 14:12:12 -0400 (Wed, 26 Sep 2018) | 1 line
+
+add thrid test file
+------------------------------------------------------------------------
+r37 | zhan5263@UTORONTO.CA | 2018-09-26 14:11:45 -0400 (Wed, 26 Sep 2018) | 1 line
+
+added second test file
+------------------------------------------------------------------------
+r36 | zhan5263@UTORONTO.CA | 2018-09-26 14:10:25 -0400 (Wed, 26 Sep 2018) | 1 line
+
+added first test file
+------------------------------------------------------------------------
+r29 | zhan5263@UTORONTO.CA | 2018-09-25 23:17:12 -0400 (Tue, 25 Sep 2018) | 1 line
+
+
+------------------------------------------------------------------------
+Marks Deductions here: 0
+
+
+
+PART 5) +++HONOR CODE?+++
+// **********************************************************
+// Assignment0:
+// UTORID:zhan5263
+// UT Student #:1004424517
+// Author: zhang ti
+//
+//
+// Honor Code: I pledge that this program represents my own
+// program code and that I have coded on my own. I received
+// help from no one in designing and debugging my program.
+// I have also read the plagiarism section in the course info
+// sheet of CSC B07 and understand the consequences. In this semester
+// we will select any three of your assignments from total of 5 and run it
+// for plagiarism check.
+Marks Deductions here: 0
+
+
+
+PART 6) +++IDE FILES+++
+Marks Deductions here: 0
+
+
+
+PART 7) +++STATIC FUNCTIONS IN YOUR CODE+++
+Marks Deductions here: 0
+
+
+
+PART 8) +++COMMENTS IN cFiltering.java
+Marks Deductions here: 0
+// for plagiarism check.
+// *********************************************************
+  // 2d matrix for user-movie
+  // 2d matrix for user-user
+  // constructor
+    // matrix with dimension 1*1
+  // create matrix with size from given values
+  // fill in the matrix
+  // calculate the similarity of given users
+    // calculate the distance
+    // here use the Euclidean Distance Formula as given
+    // calculate the similarity score
+    // Store similarity score in both upper and lower triangle in Matrix
+  // print the user-user matrix
+    // below for format requirements
+    // add this line to change to 4 decimal places as asked
+    // print out a list array of the matrix
+    // loop through the rows
+      // loop through the columns
+      // reset for use
+  // print the most similar pair of users and their similarity score
+    // below for format requirements
+    // add this line to change to 4 decimal places as asked
+    // loop through matrix and finds users with highest similarity score
+    // for each row
+      // for each column
+          // if found more similar one, replace it and reset the associations
+          // find anther similar one
+    // set the pointers
+    // match each user together without duplication
+    // below for format requirements
+    // add this line to change to 4 decimal places as asked
+    // loop through matrix and finds users with lowest similarity score
+    // for each row
+      // for each column
+          // if found more similar one, replace it and reset the associations
+          // find anther similar one
+    // set the pointers
+    // match each user together without duplication
+
+
+
+PART 9) +++COMPILING YOUR CODE+++
+Marks Deductions here: 0
+
+
+
++++RUNNING YOUR CODE+++
+PART 10) +++RUNNING TESTCASE1+++
+Marks Deductions here: 0
+Enter the name of input file? 
+
+
+userUserMatrix is:
+[1.0000, 1.0000, 1.0000, 1.0000]
+[1.0000, 1.0000, 1.0000, 1.0000]
+[1.0000, 1.0000, 1.0000, 1.0000]
+[1.0000, 1.0000, 1.0000, 1.0000]
+
+
+The most similar pairs of users from above userUserMatrix are:
+User1 and User2, 
+User1 and User3, 
+User1 and User4, 
+User2 and User3, 
+User2 and User4, 
+User3 and User4
+with similarity score of 1.0000
+
+
+The most dissimilar pairs of users from above userUserMatrix are:
+User1 and User2, 
+User1 and User3, 
+User1 and User4, 
+User2 and User3, 
+User2 and User4, 
+User3 and User4
+with similarity score of 1.0000
+
+
+
+PART 11) +++RUNNING TESTCASE2+++
+Marks Deductions here: 0
+Enter the name of input file? 
+
+
+userUserMatrix is:
+[1.0000, 1.0000, 0.1006, 0.1006]
+[1.0000, 1.0000, 0.1006, 0.1006]
+[0.1006, 0.1006, 1.0000, 1.0000]
+[0.1006, 0.1006, 1.0000, 1.0000]
+
+
+The most similar pairs of users from above userUserMatrix are:
+User1 and User2, 
+User3 and User4
+with similarity score of 1.0000
+
+
+The most dissimilar pairs of users from above userUserMatrix are:
+User1 and User3, 
+User1 and User4, 
+User2 and User3, 
+User2 and User4
+with similarity score of 0.1006
+
+
+
+PART 12) +++RUNNING TESTCASE3+++
+Marks Deductions here: 0
+Enter the name of input file? 
+
+
+userUserMatrix is:
+[1.0000, 0.1082, 0.1082, 0.1082, 1.0000]
+[0.1082, 1.0000, 1.0000, 1.0000, 0.1082]
+[0.1082, 1.0000, 1.0000, 1.0000, 0.1082]
+[0.1082, 1.0000, 1.0000, 1.0000, 0.1082]
+[1.0000, 0.1082, 0.1082, 0.1082, 1.0000]
+
+
+The most similar pairs of users from above userUserMatrix are:
+User1 and User5, 
+User2 and User3, 
+User2 and User4, 
+User3 and User4
+with similarity score of 1.0000
+
+
+The most dissimilar pairs of users from above userUserMatrix are:
+User1 and User2, 
+User1 and User3, 
+User1 and User4, 
+User2 and User5, 
+User3 and User5, 
+User4 and User5
+with similarity score of 0.1082
+
+
+
+Part 10) +++Working on Problem Rearranging+++
+Marks Deductions here: 0
+FOUND: Rearranging.java and now compiling
+Note: ./src/a0/RearrangingTest.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
++++RUNNING TESTCASES+++ on Rearranging
+JUnit version 4.12
+.0
+.0
+
+Time: 0.015
+
+OK (2 tests)
+
+Part 11) +++Does your code run in linear time and not use a new array+++?
+Marks Deductions here: 0
